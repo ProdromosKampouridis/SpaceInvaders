@@ -1,0 +1,7 @@
+Assets download: https://drive.google.com/file/d/1MLlO3B1exD9KV0gHrj0tY-oOw6TUkDtC/view?usp=sharing
+
+Όλα τα αρχεία στο παραπάνω λινκ θα πρέπει να βρίσκονται μέσα στον φάκελο assets, ο οποίος θα βρίσκεται μέσα στον φάκελο bin (SpaceInvaders > bin > assets)
+
+Δημιουργοί:
+Καμπουρίδης Πρόδρομος
+Βοϊτσίδης Νικόλαος
